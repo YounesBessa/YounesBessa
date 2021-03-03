@@ -6,7 +6,7 @@ I'm Younes Bessa, **Junior Web Developer**
 - 👨🏽‍💻 Web Developer at [onRunTime](https://onruntime.com/)
 - ❤️ [Open Source](https://github.com/YounesBessa/) enthusiast
 
-![Younes's github stats](https://github-readme-stats.vercel.app/api?username=YounesBessa&count_private=true&hide=stars,issues&show_icons=true&theme=dark)
+![Younes's github stats](https://github-readme-stats.vercel.app/api?username=YounesBessa&count_private=true&hide=stars,issues&show_icons=true&theme=dark&icon_color=#ffffff)
 
 <!--
 **YounesBessa/YounesBessa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
