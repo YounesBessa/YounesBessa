@@ -5,7 +5,6 @@ I'm Younes Bessa, a 22-year-old **Junior Web Developer**
 - 👨🏼‍🎓 Student at [NFactory School](https://nfactory.school/)
 - 👨🏽‍💻 Web Developer at [onRunTime](https://onruntime.com/)
 - ❤️ [Open Source](https://github.com/YounesBessa/) enthusiast
-- :dz: From Algeria
 
 ![Younes's github stats](https://github-readme-stats.vercel.app/api?username=YounesBessa&count_private=true&hide=stars,issues&show_icons=true&icon_color=ffffff&include_all_commits=true&text_color=ffffff&hide_border=true&bg_color=0D1117&title_color=ffffff)
 
