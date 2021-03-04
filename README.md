@@ -8,8 +8,6 @@ I'm Younes Bessa, a 22-year-old **Junior Web Developer**
 
 ![Younes's github stats](https://github-readme-stats.vercel.app/api?username=YounesBessa&count_private=true&hide=stars,issues,prs&show_icons=true&icon_color=ffffff&include_all_commits=true&text_color=ffffff&hide_border=true&bg_color=0D1117&title_color=ffffff)
 
-[![Younes's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=YounesBessa&layout=compact&title_color=ff6b81&bg_color=0d1117&text_color=ff4757&hide_border=true&hide_title=true)](https://wakatime.com/@antoinekm)
-
 <!--
 **YounesBessa/YounesBessa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
