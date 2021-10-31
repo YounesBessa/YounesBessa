@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I'm Younes Bessa, a 23-year-old **Junior Web Developer**
+I'm [Younes Bessa](https://www.younesbessa.com/), a 23-year-old **Junior Web Developer**
 
 - 👨🏼‍🎓 Student at [Need for School](https://www.needfor-school.com/)
-- 👨🏽‍💻 Web Developer at [onRunTime](https://onruntime.com/)
-- ❤️ [Open Source](https://github.com/YounesBessa/) enthusiast
+- 👨🏽‍💻 Web Developer at [onRuntime](https://onruntime.com/)
+- ❤️ [Open Source](https://github.com/YounesBessa?tab=repositories) enthusiast
 
 ![Younes's github stats](https://github-readme-stats.vercel.app/api?username=YounesBessa&count_private=true&hide=stars,issues,prs&show_icons=true&icon_color=ffffff&include_all_commits=true&text_color=ffffff&hide_border=true&bg_color=0D1117&title_color=ffffff)
 
