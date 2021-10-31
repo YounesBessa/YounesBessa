@@ -2,7 +2,7 @@
 
 I'm Younes Bessa, a 23-year-old **Junior Web Developer**
 
-- 👨🏼‍🎓 Student at [NFactory School](https://nfactory.school/)
+- 👨🏼‍🎓 Student at [Need for School](https://www.needfor-school.com/)
 - 👨🏽‍💻 Web Developer at [onRunTime](https://onruntime.com/)
 - ❤️ [Open Source](https://github.com/YounesBessa/) enthusiast
 
