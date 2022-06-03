@@ -6,6 +6,8 @@ I'm [Younes Bessa](https://www.younesbessa.com/), a 23-year-old **Junior Web Dev
 - 👨🏽‍💻 Web Developer at [onRuntime](https://onruntime.com/)
 - ❤️ [Open Source](https://github.com/YounesBessa?tab=repositories) enthusiast
 
+[![wakatime](https://wakatime.com/badge/user/94daef73-1785-4c8b-a05d-c10caf6a1232.svg)](https://wakatime.com/@94daef73-1785-4c8b-a05d-c10caf6a1232)
+
 ![Younes's github stats](https://github-readme-stats.vercel.app/api?username=YounesBessa&count_private=true&hide=stars,issues,prs&show_icons=true&icon_color=ffffff&include_all_commits=true&text_color=ffffff&hide_border=true&bg_color=0D1117&title_color=ffffff)
 
 <!--
