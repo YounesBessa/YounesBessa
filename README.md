@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm [Younes Bessa](https://www.younesbessa.com/), a 24-year-old **Junior Web Developer**
+I'm [Younes Bessa](https://www.younesbessa.com/), a 24-year-old **Web Developer**
 
 - 👨🏼‍🎓 Bachelor student at [Need for School](https://www.needfor-school.com/)
 - 👨🏽‍💻 Web Developer at [Tonight Pass](https://tonightpass.com/) (by [onRuntime](https://onruntime.com/))
