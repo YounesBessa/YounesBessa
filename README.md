@@ -2,7 +2,7 @@
 
 I'm [Younes Bessa](https://www.younesbessa.com/), a 25-year-old **Web Developer**
 
-- 👨🏼‍🎓 Bachelor student at [Need for School](https://www.needfor-school.com/)
+- 👨🏼‍🎓 Bachelor graduate (now [open to work](https://www.linkedin.com/in/younesbessa/))
 - 👨🏽‍💻 Web Developer at [Tonight Pass](https://tonightpass.com/) (by [onRuntime](https://onruntime.com/))
 - ❤️ [Open Source](https://github.com/YounesBessa?tab=repositories) enthusiast
 
